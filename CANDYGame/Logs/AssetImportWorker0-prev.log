@@ -389,3 +389,19 @@ AssetImportParameters requested are different than current active one (requested
   custom:scripting/monoscript/fileName/BranchesTab.cs: 764cb17e9337c58ad4f5304b60b2042e -> 6c73bb390525edfaeaee3aa961a1805c
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:scripting/monoscript/fileName/PlasticWindow.cs: 76740c086f0109337962354fe520adb2 -> db1bcf55ae1c7b77c67756dffdd1fe63
+========================================================================
+Received Import Request.
+  Time since last request: 71531.626445 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(e552bf356ff9141ba9b67840705b99f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(e552bf356ff9141ba9b67840705b99f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8223bc063441140a95520037ac727ad6') in 0.001629 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.882905 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b155991ccf63796b6ff80485c7d16e1f') in 0.000251 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
